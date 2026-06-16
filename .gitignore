@@ -2,3 +2,4 @@
 .terrafrom.*
 terragrunt-demo/dev/.terraform.lock.*
 terragrunt-demo/test/.terraform.lock.*
+*.terraform.lock.hcl
